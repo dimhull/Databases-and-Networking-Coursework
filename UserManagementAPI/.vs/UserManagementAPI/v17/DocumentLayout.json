@@ -1,21 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\882369\\source\\repos\\UserManagementAPI\\",
+  "WorkspaceRootPath": "C:\\Users\\882369\\source\\repos\\Databases-and-Networking-Coursework\\UserManagementAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D9B4BA0A-77A8-42D4-B28A-C8372DBEE59D}|UserManagementAPI\\UserManagementAPI.csproj|c:\\users\\882369\\source\\repos\\usermanagementapi\\usermanagementapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D9B4BA0A-77A8-42D4-B28A-C8372DBEE59D}|UserManagementAPI\\UserManagementAPI.csproj|c:\\users\\882369\\source\\repos\\databases-and-networking-coursework\\usermanagementapi\\usermanagementapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D9B4BA0A-77A8-42D4-B28A-C8372DBEE59D}|UserManagementAPI\\UserManagementAPI.csproj|solutionrelative:usermanagementapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D9B4BA0A-77A8-42D4-B28A-C8372DBEE59D}|UserManagementAPI\\UserManagementAPI.csproj|c:\\users\\882369\\source\\repos\\usermanagementapi\\usermanagementapi\\models\\usermanagercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D9B4BA0A-77A8-42D4-B28A-C8372DBEE59D}|UserManagementAPI\\UserManagementAPI.csproj|c:\\users\\882369\\source\\repos\\databases-and-networking-coursework\\usermanagementapi\\usermanagementapi\\models\\usermanagercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D9B4BA0A-77A8-42D4-B28A-C8372DBEE59D}|UserManagementAPI\\UserManagementAPI.csproj|solutionrelative:usermanagementapi\\models\\usermanagercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D9B4BA0A-77A8-42D4-B28A-C8372DBEE59D}|UserManagementAPI\\UserManagementAPI.csproj|c:\\users\\882369\\source\\repos\\usermanagementapi\\usermanagementapi\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D9B4BA0A-77A8-42D4-B28A-C8372DBEE59D}|UserManagementAPI\\UserManagementAPI.csproj|c:\\users\\882369\\source\\repos\\databases-and-networking-coursework\\usermanagementapi\\usermanagementapi\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D9B4BA0A-77A8-42D4-B28A-C8372DBEE59D}|UserManagementAPI\\UserManagementAPI.csproj|solutionrelative:usermanagementapi\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D9B4BA0A-77A8-42D4-B28A-C8372DBEE59D}|UserManagementAPI\\UserManagementAPI.csproj|c:\\users\\882369\\source\\repos\\usermanagementapi\\usermanagementapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{D9B4BA0A-77A8-42D4-B28A-C8372DBEE59D}|UserManagementAPI\\UserManagementAPI.csproj|c:\\users\\882369\\source\\repos\\databases-and-networking-coursework\\usermanagementapi\\usermanagementapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{D9B4BA0A-77A8-42D4-B28A-C8372DBEE59D}|UserManagementAPI\\UserManagementAPI.csproj|solutionrelative:usermanagementapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
@@ -32,9 +32,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "UsersController.cs",
-              "DocumentMoniker": "C:\\Users\\882369\\source\\repos\\UserManagementAPI\\UserManagementAPI\\Controllers\\UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\882369\\source\\repos\\Databases-and-Networking-Coursework\\UserManagementAPI\\UserManagementAPI\\Controllers\\UsersController.cs",
               "RelativeDocumentMoniker": "UserManagementAPI\\Controllers\\UsersController.cs",
-              "ToolTip": "C:\\Users\\882369\\source\\repos\\UserManagementAPI\\UserManagementAPI\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\882369\\source\\repos\\Databases-and-Networking-Coursework\\UserManagementAPI\\UserManagementAPI\\Controllers\\UsersController.cs",
               "RelativeToolTip": "UserManagementAPI\\Controllers\\UsersController.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAAgwDsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -45,11 +45,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\882369\\source\\repos\\UserManagementAPI\\UserManagementAPI\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\882369\\source\\repos\\Databases-and-Networking-Coursework\\UserManagementAPI\\UserManagementAPI\\Program.cs",
               "RelativeDocumentMoniker": "UserManagementAPI\\Program.cs",
-              "ToolTip": "C:\\Users\\882369\\source\\repos\\UserManagementAPI\\UserManagementAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\882369\\source\\repos\\Databases-and-Networking-Coursework\\UserManagementAPI\\UserManagementAPI\\Program.cs",
               "RelativeToolTip": "UserManagementAPI\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-09T13:40:10.956Z",
               "EditorCaption": ""
@@ -58,9 +58,9 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\882369\\source\\repos\\UserManagementAPI\\UserManagementAPI\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\882369\\source\\repos\\Databases-and-Networking-Coursework\\UserManagementAPI\\UserManagementAPI\\appsettings.json",
               "RelativeDocumentMoniker": "UserManagementAPI\\appsettings.json",
-              "ToolTip": "C:\\Users\\882369\\source\\repos\\UserManagementAPI\\UserManagementAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\882369\\source\\repos\\Databases-and-Networking-Coursework\\UserManagementAPI\\UserManagementAPI\\appsettings.json",
               "RelativeToolTip": "UserManagementAPI\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -71,9 +71,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "UserManagerContext.cs",
-              "DocumentMoniker": "C:\\Users\\882369\\source\\repos\\UserManagementAPI\\UserManagementAPI\\Models\\UserManagerContext.cs",
+              "DocumentMoniker": "C:\\Users\\882369\\source\\repos\\Databases-and-Networking-Coursework\\UserManagementAPI\\UserManagementAPI\\Models\\UserManagerContext.cs",
               "RelativeDocumentMoniker": "UserManagementAPI\\Models\\UserManagerContext.cs",
-              "ToolTip": "C:\\Users\\882369\\source\\repos\\UserManagementAPI\\UserManagementAPI\\Models\\UserManagerContext.cs",
+              "ToolTip": "C:\\Users\\882369\\source\\repos\\Databases-and-Networking-Coursework\\UserManagementAPI\\UserManagementAPI\\Models\\UserManagerContext.cs",
               "RelativeToolTip": "UserManagementAPI\\Models\\UserManagerContext.cs",
               "ViewState": "AgIAABEAAAAAAAAAAAA2wBkAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
